@@ -124,5 +124,11 @@ hr {
 
 header h2 img {
     width: fit-content;
-    
+
+}
+
+.fix_image {
+    display: block;
+    margin: 20px auto;
+    width: 30%;
 }
