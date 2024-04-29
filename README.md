@@ -3,9 +3,9 @@
 <ul> 
      <li><a href="inchroduckshun/index.html" target="blank">Intro to HTML<a><li>
      <li><a href="html5/index.html" target="blank">Intro to CSS<a><li>
-     <li><a href="adv_css/index.html" target="blank">advanced css<a><li>
+     <li><a href="adv_css/index.html" target="blank">final<a><li>
      <li><a href="responsive1/index.html" target="blank">Responsive CSS<a><li>
-     <li><a href="Final_copy/index.hmtl" target="_blank">Final</a></li>
+    
      
 <ul>
  
